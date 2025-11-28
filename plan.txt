@@ -1,0 +1,4 @@
+1. to add validation script in login
+2. to add token spent in database - to be added in test result Table
+3. shift to pro when score <=90
+4. 
