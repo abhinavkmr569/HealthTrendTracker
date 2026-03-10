@@ -1,6 +1,0 @@
-# Gemini API Key (from aistudio.google.com)
-GEMINI_API_KEY=AIzaSyCeG-GRKUAcp-4gmGPaIOW6ZV-Ae4b1SPA
-
-# CockroachDB Connection String
-# I replaced 'defaultdb' with 'healthdb' for you here.
-DATABASE_URL=postgresql://abhinavkmr569:mYZwz-lBFp50d1HVJ1GVJw@ak-healthapp-18622.j77.aws-ap-south-1.cockroachlabs.cloud:26257/healthdb?sslmode=verify-full
