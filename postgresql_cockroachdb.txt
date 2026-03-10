@@ -1,3 +1,0 @@
-Cluster Connection: postgresql://abhinavkmr569:mYZwz-lBFp50d1HVJ1GVJw@ak-healthapp-18622.j77.aws-ap-south-1.cockroachlabs.cloud:26257/healthdb?sslmode=verify-full
-
-PowerShell: mkdir -p $env:appdata\postgresql\; Invoke-WebRequest -Uri https://cockroachlabs.cloud/clusters/6e8c0eb1-0ae2-47a4-b0dd-a4d7e891bef2/cert -OutFile $env:appdata\postgresql\root.crt
